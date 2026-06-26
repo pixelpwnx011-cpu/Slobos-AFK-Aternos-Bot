@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "unshiftedSMP.aternos.me",
+    "ip": "unshiftedSMP.aternos.me:15492",
     "port": 15492,
-    "version": "",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
